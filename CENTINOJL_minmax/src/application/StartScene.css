@@ -1,0 +1,20 @@
+
+/* Button Design */
+
+#start, #exit  {
+	-fx-background-color: #FF7814;
+	-fx-background-radius: 30px;
+}
+
+/* Button Hover Design */
+
+#start:hover, #exit:hover {
+	-fx-background-color: #FFA460;
+}
+
+/* Button Clicked Design */
+
+#start:pressed, #exit:pressed {
+	-fx-background-color: #FF7814;
+}
+

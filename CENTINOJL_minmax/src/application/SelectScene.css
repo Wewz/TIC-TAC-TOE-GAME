@@ -1,0 +1,20 @@
+
+/* Button Design */
+
+#selectO, #selectX, #menu  {
+	-fx-background-color: #FF7814;
+	-fx-background-radius: 30px;
+}
+
+/* Button Hover Design */
+
+#selectO:hover, #selectX:hover, #menu:hover {
+	-fx-background-color: #FFA460;
+}
+
+/* Button Clicked Design */
+
+#selectO:pressed, #selectX:pressed, #menu:pressed {
+	-fx-background-color: #FF7814;
+}
+

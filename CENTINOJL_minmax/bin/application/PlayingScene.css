@@ -1,0 +1,32 @@
+
+#menu, #newGame
+{
+	-fx-background-color: #FF7814;
+	-fx-background-radius: 30px;
+	-fx-text-fill: white;
+}
+
+#menu:hover, #newGame:hover {
+	-fx-background-color: #FFA460;
+}
+
+#menu:pressed, #newGame:pressed {
+	-fx-background-color: #FF7814;
+}
+
+
+#pos00, #pos01, #pos02,
+#pos10, #pos11, #pos12,
+#pos20, #pos21, #pos22
+{
+	-fx-background-color: #FF974A;
+	-fx-text-fill: white;
+}
+
+#pos00:hover, #pos01:hover, #pos02:hover,
+#pos10:hover, #pos11:hover, #pos12:hover,
+#pos20:hover, #pos21:hover, #pos22:hover
+{
+	-fx-background-color: #FF7814;
+}
+
